@@ -11,10 +11,11 @@
 ## Results
 Router improves F1 while reducing retrieval rate.
 
-| NQ | System | F1 | Rate |
-|----|--------|----|------|
+| NQ  | System | F1    | Rate |
+|-----|--------|-------|------|
+| 50  | Router | **0.110** | **94%** |
 | 500 | Router | **0.126** | **91%** |
-| 3000 | Router | **0.100** | **75%** |
+| 3000| Router | **0.100** | **75%** |
 
 ## Files
 - `router-guided-rag-50.ipynb` (50)
